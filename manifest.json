@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "Firefox tabs to Twitch",
-    "description": "Copies the Title and URL of the currently selected tab to Twitch",
+    "name": "FireFox Anti-Clicbait Extension",
+    "description": "Gets the transcript of a video and give the video a different title",
     "version": "0.0.1",
     "icons": {
       "64": "icons/twitch.png"
